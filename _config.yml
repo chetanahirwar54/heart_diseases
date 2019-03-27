@@ -3,3 +3,8 @@ theme: jekyll-theme-midnight
 url: "https://chetanahirwar54.github.io/heart_diseases"
 baseurl: "/heart_diseases"
 
+navbar-links:
+  About Me: "aboutme"
+  Resources:
+    - code: "heart_diseases/Heart Disease.html"
+    
